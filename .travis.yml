@@ -17,6 +17,10 @@
 # under the License.
 #
 
+arch:
+  - amd64
+  - arm64
+
 dist: trusty 
 
 language: java cpp 
